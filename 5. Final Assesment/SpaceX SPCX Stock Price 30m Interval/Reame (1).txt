@@ -1,0 +1,23 @@
+SpaceX SPCX Stock Price 30m Interval
+Space X Nasdaq (SPCX) Last 3 days Stock Price 30m Interval
+
+About Dataset
+This dataset contains historical stock price data for SpaceX-related ticker SPCX, collected at 30-minute intervals over the most recent 3 trading days. The data was retrieved using the Python yfinance library, which provides access to Yahoo Finance market data.
+
+The dataset includes standard OHLCV market features:
+
+Open – Opening price for each 30-minute interval
+High – Highest price reached during the interval
+Low – Lowest price reached during the interval
+Close – Closing price for the interval
+Volume – Number of shares traded during the interval
+
+This dataset can be used for:
+
+Intraday stock market analysis
+Time series forecasting
+Financial data visualization
+Algorithmic trading research
+Machine learning and predictive modeling projects
+
+Data Source: Yahoo Finance via the yfinance Python package. The 30-minute interval is supported by yfinance's intraday data functionality.
